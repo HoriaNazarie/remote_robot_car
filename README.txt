@@ -1,0 +1,3 @@
+TO RUN THE BLUETOOTH SCRIPT, RUN THE FOLLOWING COMMAND IN THE PYTHON ENVIRONMENT:
+
+	pip install -r /path/to/requirements.txt
